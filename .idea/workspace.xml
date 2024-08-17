@@ -4,7 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ff3ffc7-6347-451a-9e26-986b9110048e" name="Changes" comment="" />
+    <list default="true" id="7ff3ffc7-6347-451a-9e26-986b9110048e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/OJl3g/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/OJl3g/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/OJl3g/dao/AutoDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/OJl3g/dao/AutoDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/OJl3g/entity/Auto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/OJl3g/entity/Auto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/OJl3g/entity/Engine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/OJl3g/entity/Engine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/OJl3g/entity/HibernateUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/OJl3g/entity/HibernateUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,9 +24,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "OJl3g"
+  }
 }]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/OJl3g/LesHibernate2.git",
+    "accountId": "d41cef41-f598-4bb2-8467-204b93099603"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2kjtKZu6JzyoYhfE54rGMJEL9kW" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -26,10 +49,21 @@
   "keyToString": {
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "memsql_singlestore",
+      "postgresql"
+    ]
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -49,6 +83,7 @@
       <option name="presentableId" value="Default" />
       <updated>1723808751406</updated>
       <workItem from="1723808752568" duration="1000" />
+      <workItem from="1723902162123" duration="484000" />
     </task>
     <servers />
   </component>
